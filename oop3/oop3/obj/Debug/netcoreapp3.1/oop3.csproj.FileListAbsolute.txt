@@ -1,0 +1,13 @@
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.exe
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.deps.json
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.runtimeconfig.json
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.runtimeconfig.dev.json
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.dll
+D:\Проекты Visuo Studio\oop3\oop3\bin\Debug\netcoreapp3.1\oop3.pdb
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.csprojAssemblyReference.cache
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.AssemblyInfoInputs.cache
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.AssemblyInfo.cs
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.csproj.CoreCompileInputs.cache
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.dll
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.pdb
+D:\Проекты Visuo Studio\oop3\oop3\obj\Debug\netcoreapp3.1\oop3.genruntimeconfig.cache
